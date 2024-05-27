@@ -1920,12 +1920,12 @@
     "1337": {
       "events": {},
       "links": {},
-      "address": "0x242d1BFc5740b74375Fc4B22443FeD855a19b21c",
-      "transactionHash": "0x2e3d5c03899a4a21e2005d0f6f6873c25c6627bda961546332eb4a746d3b5625"
+      "address": "0xA688C9Ee68E69fC20a50C15F44f878533990e00b",
+      "transactionHash": "0x35e421ec4a813fa2564d269b0f1534340b12773fff87cc79930a387535a696db"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2024-05-26T18:48:50.715Z",
+  "updatedAt": "2024-05-27T02:42:36.247Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",

@@ -11460,12 +11460,12 @@
     "1337": {
       "events": {},
       "links": {},
-      "address": "0x1285Ffc8D30c1DCc096BB8a95DA835671fac408f",
-      "transactionHash": "0x92b848dac970f0056fb246ee32fc5139c69b8b81691c08d4cb29d5ca73e3e644"
+      "address": "0xAD8673a8100Ab72dBaF5E12d3c5E22e965f7d5d5",
+      "transactionHash": "0x0784d6d1761c82c65511ded7c37a0584fbd058ab9d08ee4411a0557518d95804"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2024-05-26T18:48:50.705Z",
+  "updatedAt": "2024-05-27T02:42:36.240Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",

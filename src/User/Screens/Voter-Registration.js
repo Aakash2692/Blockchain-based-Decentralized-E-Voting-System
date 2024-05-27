@@ -43,9 +43,16 @@ export default function VoterRegistration() {
         .createAdharEmail(aadhar, account, email)
         .send({ from: account });
 
+      setAlert("success");
+      setAlertName("Aadhar Verification Successful!");
+      setOpen(true);
+
       // window.location.reload();
     } catch (error) {
       // console.log(error.message);
+      setAlert("error");
+      setAlertName("Aadhar Verification Failed!");
+      setOpen(true);
     }
   };
 
